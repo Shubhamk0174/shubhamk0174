@@ -3,7 +3,7 @@
 <p align="center">
   Full Stack Developer • B.Tech CSE Core @ VIT-AP  
   <br/>
-  I build modern web & mobile apps using React, Next.js, Node.js, Java & React Native.
+  I build modern web & mobile apps using React, Next.js, Node.js & React Native.
 </p>
 
 ---
