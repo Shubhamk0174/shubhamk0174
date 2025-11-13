@@ -107,7 +107,7 @@
 ---
 
 <!-- Quotes -->
-<h3 align="center">✍️ Dev Quote</h3>
+<!-- <h3 align="center">✍️ Dev Quote</h3> -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
